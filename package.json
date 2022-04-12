@@ -1,0 +1,17 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "Inteview task Post api for shortrurl",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saianth Dekonda",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-url-shortener": "^2.0.1",
+    "shorturl": "^0.0.3",
+    "tinyurl": "^1.1.7"
+  }
+}
